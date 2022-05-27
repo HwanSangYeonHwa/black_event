@@ -28,7 +28,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
         
     - name: Fetch
-      run: git checkout HEAD^
+      run: git fetch
         
     - name: Install dependencies
       run: |

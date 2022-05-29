@@ -1,6 +1,12 @@
 {
 	"events": [
 		{
+			"title": "[이벤트] 직접서비스 3주년 기념, <검사동락> 특별 생방송!",
+			"count": "2 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8150&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/25BU118VQCOP2NLI20220529183250238.400x225.png"
+		},
+		{
 			"title": "[이벤트] 오늘도 접속 보상은 멈추지 않는다. 일반 접속보상!",
 			"count": "32 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8119&countryType=ko-KR",
@@ -137,12 +143,6 @@
 			"count": "95 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=6299&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2021/122Y03NDFCQ2ARNN20210831191752127.400x225.jpg"
-		},
-		{
-			"title": "[이벤트] 칼페온의 마지막 공주, 노바를 위해 차가운 바람을 타고 온 선물",
-			"count": "상시",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=4144&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2020/9HEYQUBNWFQB8H1J20201211210722773.400x225.jpg"
 		}
 	]
 }

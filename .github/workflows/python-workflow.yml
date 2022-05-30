@@ -32,15 +32,20 @@ jobs:
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         
-    - name: Run script
+    - name: Run event scrapper
       run: |
         python "main.py"
+        
+    - name: Run holiday parser
+      run: |
+        python "holiday.py"
         
     - name: Commit
       run: |
         git config --local user.email "hammuu1112@gmail.com"
         git config --local user.name "Action bot"
         git add events.json
+        git add holiday.json
         git commit -m "[Auto] update event list"
         
     - name: Push

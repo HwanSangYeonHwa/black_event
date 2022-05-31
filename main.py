@@ -3,9 +3,19 @@ import os
 import requests
 import json
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+def get_meta(event_url):
+    meta_request = requests.request(method='get', url=event_url)
+    requests.encoding = None
+    meta_html = meta_request.content
+    meta_soup = BeautifulSoup(meta_html, 'html.parser')
+    meta_data = meta_soup.find('meta', {'name': 'description'}).get('content')
+    return meta_data
+
 
 print('bot start\n')
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 request = requests.request(method='get', url='https://www.kr.playblackdesert.com/ko-KR/News/Notice?boardType=3')
 request.encoding = None
@@ -20,9 +30,8 @@ for event in table:
     count = event.find_next('span', {'class': 'count'}).getText().replace("  ", " ").strip()
     url = event.find_next('a').get('href')
     thumbnail = event.find_next('img').get('src')
-    events['events'].append({'title': title, 'count': count, 'url': url, 'thumbnail': thumbnail})
-
-print(events)
+    meta = get_meta(url)
+    events['events'].append({'title': title, 'count': count, 'url': url, 'thumbnail': thumbnail, 'meta': meta})
 
 with open(os.path.join(BASE_DIR, 'events.json'), 'w+', encoding='utf-8') as json_file:
     json.dump(events, json_file, ensure_ascii=False, indent='\t')

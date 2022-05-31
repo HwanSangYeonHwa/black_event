@@ -1,10 +1,34 @@
 {
 	"events": [
 		{
-			"title": "[이벤트] 오늘도 접속 보상은 멈추지 않는다. 일반 접속보상!",
-			"count": "30 일 남음",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8119&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/5LI4002NHHZ9T0IJ20220524214149999.400x225.jpg"
+			"title": "[이벤트] 담백하고 고소한 우유의 날!",
+			"count": "16 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8164&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/7ODA8J6XRPJFNSUI20220530212717399.400x225.jpg"
+		},
+		{
+			"title": "[이벤트] 순국선열을 기리며, 현충일 도전과제",
+			"count": "8 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8163&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/7TQZGCGZSNGIA68Q20220530212451020.400x225.png"
+		},
+		{
+			"title": "[이벤트] 제 2회 검은사막 주민대표 선거",
+			"count": "6 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8162&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/XMCSGQL2RE2460DR20220530212259648.400x225.jpg"
+		},
+		{
+			"title": "[이벤트] 멈추지 않는, 아이템 획득 핫타임!",
+			"count": "9 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8160&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/8L0COCZA2YJ3DLS220220530212130733.400x225.jpg"
+		},
+		{
+			"title": "[이벤트] [직접서비스 3주년] 동행의 인장",
+			"count": "9 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8080&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/NYVSGAC32QQKXRB120220517221904549.400x225.jpg"
 		},
 		{
 			"title": "[이벤트] [직접서비스 3주년] 까마귀 상단 베르디",
@@ -17,24 +41,6 @@
 			"count": "16 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8082&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/7WE94C82RUPA9TMK20220517222008367.400x225.jpg"
-		},
-		{
-			"title": "[이벤트] 530% 스페셜 핫타임과 달콤한 케이크!",
-			"count": "1 일 남음",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8081&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/HSIYAKXD4LX4HLE120220525091827420.400x225.jpg"
-		},
-		{
-			"title": "[이벤트] [직접서비스 3주년] 동행의 인장",
-			"count": "9 일 남음",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8080&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/NYVSGAC32QQKXRB120220517221904549.400x225.jpg"
-		},
-		{
-			"title": "[이벤트] 월드 우두머리 처치하고, 반짝이는 반지를 내 손에!",
-			"count": "1 일 남음",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8078&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/1AFZYY7O1S61YPVC20220517222214589.400x225.jpg"
 		},
 		{
 			"title": "[이벤트] PC방에서 직접서비스 3주년을 즐겨 보세요!",
@@ -85,10 +91,10 @@
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/1TAY8ZMF4B8NM7RE20220405150148244.400x225.jpg"
 		},
 		{
-			"title": "[이벤트] 추억의 장소에서 모험가님을 기다리고 있습니다!",
-			"count": "1 일 남음",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8147&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/SNJ0IYCW28JZT9J920220527110427043.400x225.jpg"
+			"title": "[이벤트] 오늘도 접속 보상은 멈추지 않는다. 일반 접속보상!",
+			"count": "30 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=8119&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/5LI4002NHHZ9T0IJ20220524214149999.400x225.jpg"
 		},
 		{
 			"title": "[이벤트] [신규 모험가]님을 위한, 감사 선물!",
@@ -137,12 +143,6 @@
 			"count": "상시",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=4144&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2020/9HEYQUBNWFQB8H1J20201211210722773.400x225.jpg"
-		},
-		{
-			"title": "[이벤트] 검은사막+로 편리함도 플러스! (최종 수정 : 2020-02-17 18:42)",
-			"count": "상시",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=2269&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/News/ff2a7a1633820200306171811713.jpg"
 		}
 	]
 }

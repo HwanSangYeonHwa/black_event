@@ -13,7 +13,7 @@ def get_meta(event_url):
     return meta_data
 
 
-print('bot start\n')
+print('get event bot start\n')
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 

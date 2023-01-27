@@ -33,7 +33,7 @@ for event in table:
     if count == "상시":
         deadline = "-"
     else:
-        deadline = (today + datetime.timedelta(days=int(count.split(' ')[0]))).strftime('%Y-%m-%d')
+        deadline = (today + datetime.timedelta(days=int(count.split(' ')[0])) - 1).strftime('%Y-%m-%d')
     url = event.find_next('a').get('href')
     thumbnail = event.find_next('img').get('src')
     meta = get_meta(url)

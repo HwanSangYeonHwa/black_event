@@ -30,7 +30,10 @@ events = {'events': [], 'last_update': today.strftime('%Y-%m-%d %H:%M:%S')}
 for event in table:
     title = event.find_next('strong').getText().split(' (최종수정')[0].strip()
     count = event.find_next('span', {'class': 'count'}).getText().replace("  ", " ").strip()
-    deadline = (today + datetime.timedelta(days=count)).strftime('%Y-%m-%d')
+    if count == "상시":
+        deadline = "-"
+    else:
+        deadline = (today + datetime.timedelta(days=int(count.split(' ')[0]))).strftime('%Y-%m-%d')
     url = event.find_next('a').get('href')
     thumbnail = event.find_next('img').get('src')
     meta = get_meta(url)

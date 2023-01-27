@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import os
 import requests
 import json
+import datetime
 
 
 def get_meta(event_url):
@@ -24,14 +25,16 @@ soup = BeautifulSoup(html, 'html.parser')
 data = soup.select('#wrap > div > div > article > div.tab_container > div > div.event_area > div.event_list')[0]
 table = data.findAll('li')
 
-events = {'events': []}
+today = datetime.datetime.utcnow() + datetime.timedelta(hours=9)
+events = {'events': [], 'last_update': today.strftime('%Y-%m-%d %H:%M:%S')}
 for event in table:
     title = event.find_next('strong').getText().split(' (최종수정')[0].strip()
     count = event.find_next('span', {'class': 'count'}).getText().replace("  ", " ").strip()
+    deadline = (today + datetime.timedelta(days=count)).strftime('%Y-%m-%d')
     url = event.find_next('a').get('href')
     thumbnail = event.find_next('img').get('src')
     meta = get_meta(url)
-    events['events'].append({'title': title, 'count': count, 'url': url, 'thumbnail': thumbnail, 'meta': meta})
+    events['events'].append({'title': title, 'deadline': deadline, 'count': count, 'url': url, 'thumbnail': thumbnail, 'meta': meta})
 
 with open(os.path.join(BASE_DIR, 'events.json'), 'w+', encoding='utf-8') as json_file:
     json.dump(events, json_file, ensure_ascii=False, indent='\t')

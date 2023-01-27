@@ -2,6 +2,7 @@
 	"events": [
 		{
 			"title": "[이벤트] 지금, 함께하고 있는 위자드와 찰칵 사연 이벤트!",
+			"deadline": "-",
 			"count": "상시",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9714&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/N3S3WII3E2BMLI4020230126180849833.400x225.png",
@@ -9,6 +10,7 @@
 		},
 		{
 			"title": "[이벤트] 동방에서 넘어온 신비한 책",
+			"deadline": "2023-02-09",
 			"count": "13 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9695&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/N2YWB6TOAF1F242X20230120110137437.400x225.jpg",
@@ -16,6 +18,7 @@
 		},
 		{
 			"title": "[이벤트] 제티나를 따라 유물 상자를 찾아가자!",
+			"deadline": "2023-02-09",
 			"count": "13 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9694&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/MMI0NZEFEMBCNRXE20230120105912412.400x225.jpg",
@@ -23,6 +26,7 @@
 		},
 		{
 			"title": "[이벤트] 매구와 함께하는 30일간의 여정 미리보기!",
+			"deadline": "2023-03-02",
 			"count": "34 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9659&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/KP9BF4Z13T14Y69D20230117182810629.400x225.jpg",
@@ -30,6 +34,7 @@
 		},
 		{
 			"title": "[이벤트] 누가누가 가장 닮았을까?",
+			"deadline": "2023-02-02",
 			"count": "6 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9689&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/8JECI83LAFKEAKXV20230119133503005.400x225.jpg",
@@ -37,6 +42,7 @@
 		},
 		{
 			"title": "[이벤트] J의 망치 & 푸가르의 초시계와 함께 매구를 플레이하는 법!",
+			"deadline": "2023-03-09",
 			"count": "41 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9657&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/CW7HEM10XE3KFVEW20230118115444290.400x225.jpg",
@@ -44,6 +50,7 @@
 		},
 		{
 			"title": "[이벤트] 동방에서 넘어온 '나전칠기함' GET, 현물 경품 GET-!",
+			"deadline": "2023-02-02",
 			"count": "6 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9652&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/GVAZTH069A27V1XE20230117182128800.400x225.jpg",
@@ -51,6 +58,7 @@
 		},
 		{
 			"title": "[이벤트] 모든 서버 핫타임 X 시즌 캐릭터 부스팅",
+			"deadline": "2023-02-15",
 			"count": "19 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9656&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/WHDE4WUZZ5RC7VT220230117192008384.400x225.jpg",
@@ -58,6 +66,7 @@
 		},
 		{
 			"title": "[이벤트] 황실 조련 납품서 개편 기념!",
+			"deadline": "2023-02-02",
 			"count": "6 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9655&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/I9OWS2QB3SEHQAYU20230117182041684.400x225.jpg",
@@ -65,6 +74,7 @@
 		},
 		{
 			"title": "[이벤트] 버프와 보따리를 주는 토끼를 찾아서..",
+			"deadline": "2023-02-02",
 			"count": "6 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9654&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/VPOEHZZAW1Y27DPU20230117182050576.400x225.jpg",
@@ -72,6 +82,7 @@
 		},
 		{
 			"title": "[이벤트] 매구, 강해질수록 풍성해지는 지원품!",
+			"deadline": "2023-02-16",
 			"count": "20 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9653&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/DHSR5AC10A0E5WVJ20230117181851669.400x225.jpg",
@@ -79,6 +90,7 @@
 		},
 		{
 			"title": "[이벤트] 돌아온 \"솔라레의 창, 크리에이터 배틀!\"",
+			"deadline": "2023-01-30",
 			"count": "3 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9649&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/QHKPQT7DXWPFBHUL20230116194354836.400x225.jpg",
@@ -86,6 +98,7 @@
 		},
 		{
 			"title": "[이벤트] 드디어 검은사막에 등장한 구미호!",
+			"deadline": "2023-02-02",
 			"count": "6 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9625&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/0V9E8MX856X339RZ20230110180953873.400x225.jpg",
@@ -93,6 +106,7 @@
 		},
 		{
 			"title": "[이벤트] 2023년 첫 접속 보상과 함께 나타난 찬란한 샤카투의 인장!",
+			"deadline": "2023-02-16",
 			"count": "20 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9624&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/PM6SDRRD3BAWY75W20230110181010681.400x225.jpg",
@@ -100,6 +114,7 @@
 		},
 		{
 			"title": "[이벤트] [신규 모험가님] 메디아로 떠나는 모험",
+			"deadline": "2023-02-16",
 			"count": "20 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9622&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/1SML4VL3KDHYYUKC20230110181125974.400x225.png",
@@ -107,6 +122,7 @@
 		},
 		{
 			"title": "[이벤트] 우두머리에서 귀중한 보상을 얻을 확률이 2배?! 그믐달 우두머리 인장까지!",
+			"deadline": "2023-02-02",
 			"count": "6 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9621&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/51CLVPQ9FSXBR80820230110181137163.400x225.jpg",
@@ -114,6 +130,7 @@
 		},
 		{
 			"title": "[이벤트] 쌍둥이 언니, 매구 아트웍 이벤트!",
+			"deadline": "2023-01-30",
 			"count": "3 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9602&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/PXX87YX4L2D49P8X20230106171757123.400x225.jpg",
@@ -121,6 +138,7 @@
 		},
 		{
 			"title": "[이벤트] 검은사막에 나타난 길을 잃은 어린 여우",
+			"deadline": "2023-02-02",
 			"count": "6 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9567&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/W3Z6C5RRKVSS8TM520230103161706636.400x225.jpg",
@@ -128,6 +146,7 @@
 		},
 		{
 			"title": "[이벤트] 스페셜 접속 보상으로 나타난 여우의 혼..?",
+			"deadline": "2023-02-01",
 			"count": "5 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9550&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/RTHM1MTZXYZXYRD320230103161719566.400x225.jpg",
@@ -135,6 +154,7 @@
 		},
 		{
 			"title": "[이벤트] 솔라레의 창 정규 시즌이 왔다!",
+			"deadline": "2023-03-01",
 			"count": "33 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9518&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/6X2UM4K2N73TQR5K20221227202404409.400x225.jpg",
@@ -142,6 +162,7 @@
 		},
 		{
 			"title": "[이벤트] 거점전 프리시즌 시-작!",
+			"deadline": "2023-02-01",
 			"count": "5 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9560&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/LDPXDVU82OANTWF620221230202647646.400x225.png",
@@ -149,6 +170,7 @@
 		},
 		{
 			"title": "[이벤트] 버프의 축복이 가득한 모험의 시간!",
+			"deadline": "2023-02-15",
 			"count": "19 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9536&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/5OOGBMF6NJKAHB5H20221227203458594.400x225.jpg",
@@ -156,6 +178,7 @@
 		},
 		{
 			"title": "[이벤트] 시즌 서버의 핫타임은 계속된다!",
+			"deadline": "2023-02-16",
 			"count": "20 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9535&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/AHY2UGINN99PY1C020221227203222154.400x225.jpg",
@@ -163,10 +186,12 @@
 		},
 		{
 			"title": "[이벤트] [검은사막 X 구전녹용] 모험가님의 피로를 검은녹용으로 녹용! (최종 수정 : 2022-12-26 20:11)",
+			"deadline": "2023-02-01",
 			"count": "5 일 남음",
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=9523&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2022/RFH4GVVS7XOLJD6G20221226095621541.400x225.jpg",
 			"meta": " 대사막의 뜨거운 열기에도 끝없이 샘솟는 힘!특별한 재료만을 골라 만든 [검은녹용] 오직 “검은사막 X 구전녹용”콜라보레이션 이벤트에서만 만나볼 수 있습니다. 검은녹용 이벤트 확인하기   [검은사막 X 구전녹용] 검은녹용 검은녹용 구성품 미리보기 ▲ 구전녹용 X 검은사막 (복세편살, 굿즈) ▲ 흑정령 키링 [검은사막 X 구전녹용] 제품 안내제품 안내- 수량 2,000개 한정 판매- 가격: 39,800원- 구전녹용 홈페이지 신규 회원가입시 최초 1만 포인트 지급합니다.- 포인트는 즉시 사용 가능하며, 포인트 사용 시 29,800..."
 		}
-	]
+	],
+	"last_update": "2023-01-27 14:57:19"
 }

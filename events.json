@@ -1,6 +1,14 @@
 {
 	"events": [
 		{
+			"title": "[이벤트] 띵동! 이벤트 편지가 도착했습니다!",
+			"deadline": "2023-04-12",
+			"count": "13 일 남음",
+			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10061&countryType=ko-KR",
+			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/VFQE3PB419DY30AG20230331200050029.400x225.png",
+			"meta": "  양치기 소년이 준비한 편지!쿠폰 입력하고 받아 보세요!DHSM-FDMS-AKSD-NWJF쿠폰 유효기간 : 2023년 4월 12일(수) 정기점검 전쿠폰 입력하러 가기 쿠폰 입력 후 획득한 편지를 우클릭하면보상이 준비된 곳으로 안내됩니다.* 아침의 나라에서는 길 안내가 지원되지 않습니다.기존 검은사막 대륙으로 이동하여 편지를 우클릭 해주세요! * 쿠폰 구성품을 버리면, 이벤트 참여가 불가하오니 유의해 주세요!실수로 삭제하셨다면, 가방(I)의 휴지통 버튼 → 복구를 통해 복구하실 수 있습니다. * 이벤트 의뢰를 통해 획득한 쪽지..."
+		},
+		{
 			"title": "[이벤트] 아침의 나라와 함께 찾아온 주말 PC방 도전과제!",
 			"deadline": "2023-04-09",
 			"count": "10 일 남음",
@@ -23,14 +31,6 @@
 			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10056&countryType=ko-KR",
 			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/OZMLU97B4Z7SROA720230328162601660.400x225.jpg",
 			"meta": " 카프라스의 돌!단돈 1은화에 추출하세요! 이벤트 기간 : 2023년 3월 29일(수) 정기점검 후 ~ 4월 26일(수) 정기점검 전까지카프라스의 돌 추출 이벤트!비율은 UP! 비용은 DOWN!카프라스의 돌 추출이 부담이시라구요? 그렇다면 바로 지금이 기회!!  카프라스의 돌 추출!오직 한달간! 추출 비율 100%, 추출 비용 1은화로 부담없이 이용하세요! 추출 방법!* 카프라스의 돌 추출은 각 마을의 대장장이 NPC를 통해 진행하실 수 있어요!   이벤트 적용 전!   /  이벤트 적용 후!* 이벤트 기간 중 모든 장비의 '..."
-		},
-		{
-			"title": "[이벤트] 3월 31일, 모험가님을 위해 준비한 특별한 편지!",
-			"deadline": "2023-03-31",
-			"count": "1 일 남음",
-			"url": "https://www.kr.playblackdesert.com/News/Notice/Detail?groupContentNo=10061&countryType=ko-KR",
-			"thumbnail": "https://s1.pearlcdn.com/KR/Upload/thumbnail/2023/FEF8DOFX7SGOFZLV20230328173347782.400x225.jpg",
-			"meta": "  검은사막 서비스팀에서 마음을 담아 준비한 특별한 편지♥ 3월 31일 금요일 20:00모험가님께 도착합니다! "
 		},
 		{
 			"title": "[이벤트] [드롭스] 아침의 나라의 문이 열리다!",
@@ -193,5 +193,5 @@
 			"meta": "   시즌 서버에서만 낚이는정체 불명의 물고기?!시즌 서버에서만 낚을 수 있는[시즌] 실러캔스를 다양한 보상으로 교환하자!2023년 2월 28일(화) 정기점검 후 ~ 봄 시즌 종료 전 [시즌] 실러캔스실러캔스는 시즌 서버 아래 위치에서 낚을 수 있어요! ▲ 벨리아 마을, NPC 크리오 좌측으로 이동해 보세요! ▲ 하이델, 창고지기 NPC 아메리고 앞으로 찾아가 보세요! ▲ 알티노바, 마구간지기 NPC 메이샤 뒷 편에서 확인해 보세요! ▲ 발렌시아, NPC 다니오 앞에서 낚싯대를 던져보세요! (추가) ▲ 드벤크룬, NPC 타미 ..."
 		}
 	],
-	"last_update": "2023-03-31 17:10:56"
+	"last_update": "2023-03-31 20:07:04"
 }

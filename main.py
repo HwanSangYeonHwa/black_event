@@ -28,7 +28,7 @@ table = data.findAll('li')
 today = datetime.datetime.utcnow() + datetime.timedelta(hours=9)
 events = {'events': [], 'last_update': today.strftime('%Y-%m-%d %H:%M:%S')}
 for event in table:
-    title = event.find_next('strong').getText().split(' (최종수정')[0].strip()
+    title = event.find_next('strong').find_next('em').getText().split(' (최종수정')[0].strip()
     count = event.find_next('span', {'class': 'count'}).getText().replace("  ", " ").strip()
     if count == "상시":
         deadline = "-"
